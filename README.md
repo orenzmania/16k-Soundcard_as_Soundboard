@@ -1,4 +1,4 @@
-# 16k-Soundcard-as Soundboard deck
+# 16k-Soundcard as Soundboard deck
 A software to convert those cheap soundcards into a soundboard deck.
 This is vibecoded, so expect it to NOT have any features, late updates, and the usual. Maybe bugfixes if i find them, but idk.
 **ONLY SUPPORTS .WAV AND .MP3, CONVERT IF YOU HAVE .OGG, .M4A, ETC.** *some .ogg files might work, but others might not, hence the recommendation to just convert.
