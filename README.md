@@ -10,7 +10,7 @@ COMPILING
 pyinstaller --onefile --noconsole --clean --name "Soundcard-SoundboardDeck" deck_player.py
 
 1. HARDWARE SETUP & ROUTING:
-• F999 Input: Select your physical F999 sound card microphone. (or any cheap soundcard)
+• Soundcard Input: Select your physical F999 sound card microphone. (or any cheap soundcard)
 • Headphones: Select your real headset/speakers (WASAPI recommended).
 • Broadcast (Cable): Select CABLE Input (VB-Audio Virtual Cable).
 WASAPI IS RECOMMENDED AS FIRST CHOICE, IF ITS NOT WORKING CHANGE IT TO MME
