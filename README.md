@@ -21,7 +21,7 @@ WDM-KS is finicky and thus not recommended to use.
 • Press the physical pad on your F999 once. It will save a clean FFT fingerprint.
 4. LOCKOUT SETTING (PREVENTING DOUBLE TRIGGERS):
 • Short sounds (Claps, Dinks): Keep lockout at 0.5s.
-• Long sounds/Songs (3s+): Set lockout to 3.5s or 4.0s so the script waits for the F999's internal audio tail to finish before re-arming.
+• Long sounds/Songs (3s+): Set lockout to 3.5s or 4.0s so the script waits for the Soundcards's internal audio tail to finish before re-arming.
 5. DISCORD / VOICE CHAT INTEGRATION:
 • In Discord Voice Settings, set Input Device to 'CABLE Output (VB-Audio Virtual Cable)'.
 • Turn off Discord's 'Krisp' noise suppression and 'Echo Cancellation' so short sound clips aren't mistakenly filtered out as background noise.
